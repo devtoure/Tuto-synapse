@@ -1,4 +1,11 @@
-.App {
+.red {
   font-family: sans-serif;
   text-align: center;
+  color: red;
+}
+
+.green {
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
 }
